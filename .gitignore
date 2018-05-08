@@ -1,0 +1,6 @@
+*.s
+!bythree.s
+!PlayerStats.s
+!recurse.s
+*.pdf
+*.c
